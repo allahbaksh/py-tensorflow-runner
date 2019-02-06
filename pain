@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-gpu
+
+git+git://github.com/uniquetrij/py-pipe@release
+git+git://github.com/uniquetrij/py-tensorflow-runner@release
+
+

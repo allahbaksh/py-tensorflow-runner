@@ -1,7 +1,7 @@
-tensorflow
-tensorflow-gpu
+tensorflow==1.12.0
+tensorflow-gpu==1.12.0
 
-git+git://github.com/uniquetrij/py-pipe@release
-git+git://github.com/uniquetrij/py-tensorflow-runner@release
+git+git://github.com/uniquetrij/py-pipe@v0.0.1
+git+git://github.com/uniquetrij/py-tensorflow-runner@v0.1.1
 
 

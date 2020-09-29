@@ -9,8 +9,8 @@ setup(
     author='Trijeet Modak',
     author_email='uniquetrij@gmail.com',
     install_requires=[
-        'tensorflow==1.12.0',
-        'tensorflow-gpu==1.12.0',
+       # 'tensorflow==1.12.0',
+       # 'tensorflow-gpu==1.12.0',
         'py_pipe' if pip.__version__ < '19.0' else '',
     ],
     dependency_links=[
